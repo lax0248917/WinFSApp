@@ -1,0 +1,1 @@
+{"command":[{"timestamp":"1588192490795","command":"create","arguments":"[\"p\",\"products\",\"t\",\"template\"]"}],"version":[{"fdk_version":"6.2.4"}],"template":[{"timestamp":"1588192490836","value":"your_first_app"}],"product":[{"timestamp":"1588192490838","value":"freshservice"}],"os":[{"timestamp":"1588192490839","version":"win32","architecure":"x64","type":"Windows_NT"}]}
